@@ -18,7 +18,7 @@ When I was troubleshooting this, I found many files and going one-by-one to find
 
 I wanted to upload this program to help other people in the IT field, or anyone who has seen this message and doesn’t want to have to look through a bunch of files and edit them one by one to get to the account they want.
 
-[app img]
+![Program Screenshot](app-img.png)
 
 ## Usage
 
